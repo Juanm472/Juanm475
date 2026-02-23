@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=TU_USUARIO)
+![](https://komarev.com/ghpvc/?username=Juanm475)
 
 ### Hi there 👋 I'm JUAN MANUEL LÓPEZ VARGAS
 
@@ -63,10 +63,10 @@ Brief description of your project.
 <p align="center">
    <i>"Building logic. Creating solutions. Improving every day."</i>
    <br><br>
-<a target="_blank" href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<a target="_blank" href="https://www.linkedin.com/in/juan-manuel-lópez-vargas-2244aa161/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
 </a>
-<a target="_blank" href="mailto:TU_EMAIL">
+<a target="_blank" href="mailto:Juanmajk1234@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
 </a>
 </p>
