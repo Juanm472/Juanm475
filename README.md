@@ -10,7 +10,7 @@ I enjoy building projects and continuously improving my skills.
   - Data Analysis & Programming
 - 🌱 I’m constantly learning new technologies and improving my problem-solving skills.
 - ⚡ Fun fact: I love understanding the logic behind systems and algorithms.
-- 💬 Talk to me about programming, mathematics, data, philosophy or technology.
+- 💬 Talk to me about programming, mathematics, data, Lord Of The Rings or technology.
 
 ---
 
@@ -42,6 +42,10 @@ I enjoy building projects and continuously improving my skills.
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
 ---
