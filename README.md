@@ -70,7 +70,7 @@ Brief description of your project.
 <a target="_blank" href="https://www.linkedin.com/in/juan-manuel-lópez-vargas-2244aa161/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
 </a>
-<a target="_blank" href="mailto:Juanmajk1234@gmail.com">
+<a target="_blank" href="mailto:https://mail.google.com/mail/u/0/?pli=1#inbox">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
 </a>
 </p>
